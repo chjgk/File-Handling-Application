@@ -17,4 +17,4 @@ File I/O
 # Purpose
 To implement file creation, reading, writing, and management operations in Java using built-in file handling classes, ensuring efficient data storage, retrieval, and error handling.
 # License
-This project is licensed under the mit license.
+This project is licensed under the MIT license.
